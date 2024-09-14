@@ -42,7 +42,7 @@ body {
 .titulo {
   margin-bottom: 180px;
   font-family: "Arial Narrow", Arial, sans-serif;
-  color: yellow;
+  color: rgb(226, 65, 145);
   position: absolute;
   font-weight: bold;
   letter-spacing: 10px;
@@ -281,7 +281,7 @@ body {
   width: 9vmin;
   height: 4vmin;
   border-radius: 50%;
-  background-color: #fff;
+  background-color: #e473d1;
 }
 .flower__white-circle::after {
   content: "";
